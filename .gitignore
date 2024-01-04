@@ -3,3 +3,7 @@ EmbroideryDigitizer/python/__pycache__
 __pycache__
 # Local Netlify folder
 .netlify
+.DS_Store
+
+env/
+venv/
